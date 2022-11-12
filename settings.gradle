@@ -1,0 +1,5 @@
+rootProject.name = 'JD_CP3_HomeTask12_2'
+include 'db'
+include 'api'
+include 'service'
+
